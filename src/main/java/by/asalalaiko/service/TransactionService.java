@@ -25,6 +25,11 @@ public class TransactionService {
     public void saveTransaction(Transaction transaction){
         repo.saveTransaction(transaction);
     }
+
+    public Integer getSumByBill(Bill bill){return repo.getSummByBill(bill);}
+
+    public  Integer getSumByAllBill(){ return repo.getSummByAllBill();}
+
 /*
     public  void  prTrToBill(Bill bill)
     {

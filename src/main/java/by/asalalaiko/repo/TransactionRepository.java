@@ -10,6 +10,8 @@ public interface TransactionRepository {
     Collection<Transaction> getAllTransaction();
     Collection<Transaction> getTransactionByBill(Bill bill);
     void saveTransaction(Transaction transaction);
+    Integer getSummByBill(Bill bill);
+    Integer getSummByAllBill();
 
 
 

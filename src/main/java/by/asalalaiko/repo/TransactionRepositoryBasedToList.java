@@ -38,4 +38,22 @@ public class TransactionRepositoryBasedToList implements TransactionRepository {
     public void saveTransaction(Transaction transaction) {
         transactions.put(transaction.getId(), transaction);
     }
+
+    @Override
+    public Integer getSummByBill(Bill bill) {
+        Integer sum=0;
+        for(Map.Entry<Integer, Transaction> entry: transactions.entrySet()) {
+            if (entry.getValue().getBill()==bill) {sum=sum + entry.getValue().getSum().intValue();}
+        }
+        return sum;
+    }
+
+    @Override
+    public Integer getSummByAllBill() {
+        Integer sum=0;
+        for(Map.Entry<Integer, Transaction> entry: transactions.entrySet()) {
+            sum=sum + entry.getValue().getSum().intValue();
+        }
+        return sum;
+    }
 }

@@ -27,4 +27,10 @@ public class BillService {
     public  void  saveBill(Bill bill){
         repo.saveBill(bill);
     }
+
+    //public  Integer getSunPositiveBills(){}
+
+    //public  Integer getSumNegativeBills(){}
+
+
 }
