@@ -1,5 +1,6 @@
 package by.asalalaiko.service;
 
+import by.asalalaiko.model.Bill;
 import by.asalalaiko.model.Transaction;
 import by.asalalaiko.repo.TransactionRepository;
 
@@ -24,5 +25,12 @@ public class TransactionService {
     public void saveTransaction(Transaction transaction){
         repo.saveTransaction(transaction);
     }
+/*
+    public  void  prTrToBill(Bill bill)
+    {
 
+        System.out.println(repo.getTransactionByBill(bill).size());
+
+    }
+*/
 }

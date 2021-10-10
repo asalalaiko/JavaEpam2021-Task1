@@ -1,5 +1,6 @@
 package by.asalalaiko.repo;
 
+import by.asalalaiko.model.Bill;
 import by.asalalaiko.model.Transaction;
 
 import java.util.Collection;
@@ -22,6 +23,15 @@ public class TransactionRepositoryBasedToList implements TransactionRepository {
     @Override
     public Collection<Transaction> getAllTransaction() {
         return transactions.values();
+    }
+
+    @Override
+    public Collection<Transaction> getTransactionByBill(Bill bill) {
+        Collection<Transaction> returnTr = (Collection<Transaction>) new Transaction();
+        for(Map.Entry<Integer, Transaction> entry: transactions.entrySet()) {
+          if (entry.getValue().getBill()==bill) {returnTr.add(entry.getValue());}
+        }
+        return returnTr;
     }
 
     @Override
