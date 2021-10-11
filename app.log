@@ -1,0 +1,77 @@
+[DEBUG] 2021-10-11 03:06:09.656 [main] CustomerRepositoryByList - REPOSITORY: Save Customer 
+[DEBUG] 2021-10-11 03:06:09.692 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:06:09.692 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:06:09.716 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.716 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.720 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.720 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.721 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.721 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.722 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.722 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.722 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:06:09.723 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:06:09.723 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.723 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.723 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.724 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.724 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.724 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.725 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.725 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.726 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:06:09.726 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:06:09.727 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.727 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.728 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.728 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.728 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.728 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.730 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:06:09.730 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:06:09.730 [main] TransactionRepositoryBasedToList - REPOSITORY: Transaction with id 3 getOperation
+[INFO ] 2021-10-11 03:06:09.731 [main] TransactionRepositoryBasedToList - REPOSITORY: Transaction with id 3 retrieved value by.asalalaiko.model.Transaction@2e55dd0c
+[INFO ] 2021-10-11 03:06:09.731 [main] TransactionService - SERVICE: Transaction with id 3 retrieved value by.asalalaiko.model.Transaction@2e55dd0c
+[DEBUG] 2021-10-11 03:06:09.733 [main] BillRepositoryBasedToList - REPOSITORY: Bill with id 2 getOperation
+[INFO ] 2021-10-11 03:06:09.733 [main] BillRepositoryBasedToList - REPOSITORY: Bill with id 2 retrieved value by.asalalaiko.model.Bill@2cd2a21f
+[DEBUG] 2021-10-11 03:15:36.893 [main] CustomerRepositoryByList - REPOSITORY: Save Customer 
+[INFO ] 2021-10-11 03:15:36.895 [main] CustomerRepositoryByList - REPOSITORY: Save Customer
+[DEBUG] 2021-10-11 03:15:36.924 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:15:36.924 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:15:36.943 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.944 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.946 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.946 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.947 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.948 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.948 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.949 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.950 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:15:36.950 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:15:36.950 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.951 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.951 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.951 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.952 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.952 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.952 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.953 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.953 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill 
+[INFO ] 2021-10-11 03:15:36.954 [main] BillRepositoryBasedToList - REPOSITORY: Save Bill
+[DEBUG] 2021-10-11 03:15:36.954 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.955 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.955 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.955 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.955 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.956 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.957 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction 
+[INFO ] 2021-10-11 03:15:36.957 [main] TransactionRepositoryBasedToList - REPOSITORY: Save Transaction
+[DEBUG] 2021-10-11 03:15:36.958 [main] TransactionRepositoryBasedToList - REPOSITORY: Transaction with id 3 getOperation
+[INFO ] 2021-10-11 03:15:36.958 [main] TransactionRepositoryBasedToList - REPOSITORY: Transaction with id 3 retrieved value by.asalalaiko.model.Transaction@2cd2a21f
+[INFO ] 2021-10-11 03:15:36.958 [main] TransactionService - SERVICE: Transaction with id 3 retrieved value by.asalalaiko.model.Transaction@2cd2a21f
+[DEBUG] 2021-10-11 03:15:36.960 [main] BillRepositoryBasedToList - REPOSITORY: Bill with id 2 getOperation
+[INFO ] 2021-10-11 03:15:36.961 [main] BillRepositoryBasedToList - REPOSITORY: Bill with id 2 retrieved value by.asalalaiko.model.Bill@62230c58
+[INFO ] 2021-10-11 12:43:02.849 [main] TransactionService - SERVICE: Transaction with id 1 retrieved value by.asalalaiko.model.Transaction@d3957fe
+[INFO ] 2021-10-11 13:03:50.301 [main] TransactionService - SERVICE: Transaction with id 1 retrieved value by.asalalaiko.model.Transaction@2320fa6f
+[INFO ] 2021-10-11 13:13:24.663 [main] TransactionService - SERVICE: Transaction with id 1 retrieved value by.asalalaiko.model.Transaction@3569fc08
+[INFO ] 2021-10-11 13:17:30.439 [main] TransactionService - SERVICE: Transaction with id 1 retrieved value by.asalalaiko.model.Transaction@e84a8e1
