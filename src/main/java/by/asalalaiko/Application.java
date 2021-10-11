@@ -41,8 +41,6 @@ public class Application {
 
 
 
-        System.out.println("Hello java!");
-
         Customer cs = new Customer();
         cs.setId(1);
         cs.setFirstName("Ivan");

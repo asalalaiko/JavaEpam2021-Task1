@@ -11,7 +11,7 @@
         </File>
     </Appenders>
     <Loggers>
-        <Logger name="com.epam.repo" level="debug" additivity="false">
+        <Logger name="by.asalalaiko.repo" level="debug" additivity="false">
             <AppenderRef ref="file"/>
         </Logger>
         <Root level="info">

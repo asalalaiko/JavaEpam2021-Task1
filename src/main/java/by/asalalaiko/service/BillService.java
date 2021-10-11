@@ -1,6 +1,7 @@
 package by.asalalaiko.service;
 
 import by.asalalaiko.model.Bill;
+import by.asalalaiko.model.Customer;
 import by.asalalaiko.repo.BillRepository;
 
 import java.util.Collection;
@@ -27,6 +28,8 @@ public class BillService {
     public  void  saveBill(Bill bill){
         repo.saveBill(bill);
     }
+
+    public Integer getQuBillsByCustomer(Customer customer){return repo.getQuantityBillsByCustomer(customer);}
 
     //public  Integer getSunPositiveBills(){}
 

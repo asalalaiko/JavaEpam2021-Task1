@@ -1,6 +1,7 @@
 package by.asalalaiko.repo;
 
 import by.asalalaiko.model.Bill;
+import by.asalalaiko.model.Customer;
 
 import java.util.Collection;
 
@@ -11,6 +12,7 @@ public interface BillRepository {
     Collection<Bill> getAllBill();
     // Collection<Bill> getTransactionByCustomer(Customer customer);
     void saveBill(Bill bill);
+    Integer getQuantityBillsByCustomer(Customer customer);
 
 
 }
