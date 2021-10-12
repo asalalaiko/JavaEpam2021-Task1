@@ -10,7 +10,6 @@ public interface BillRepository {
 
     Bill getBillById (Integer id);
     Collection<Bill> getAllBill();
-    // Collection<Bill> getTransactionByCustomer(Customer customer);
     void saveBill(Bill bill);
     Integer getQuantityBillsByCustomer(Customer customer);
 

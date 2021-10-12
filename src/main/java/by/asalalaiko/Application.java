@@ -4,9 +4,9 @@ package by.asalalaiko;
 import by.asalalaiko.model.Bill;
 import by.asalalaiko.model.Customer;
 import by.asalalaiko.model.Transaction;
-import by.asalalaiko.repo.BillRepositoryBasedToList;
-import by.asalalaiko.repo.CustomerRepositoryByList;
-import by.asalalaiko.repo.TransactionRepositoryBasedToList;
+import by.asalalaiko.repo.BillRepositoryEntityMap;
+import by.asalalaiko.repo.CustomerRepositoryEntityMap;
+import by.asalalaiko.repo.TransactionRepositoryEntityMap;
 import by.asalalaiko.service.BillService;
 import by.asalalaiko.service.CustomerService;
 import by.asalalaiko.service.TransactionService;
@@ -29,9 +29,9 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Application {
     public static void main(String[] args) {
-        TransactionRepositoryBasedToList repoTransaction = new TransactionRepositoryBasedToList();
-        BillRepositoryBasedToList repoBill = new BillRepositoryBasedToList();
-        CustomerRepositoryByList repoCustomer = new CustomerRepositoryByList();
+        TransactionRepositoryEntityMap repoTransaction = new TransactionRepositoryEntityMap();
+        BillRepositoryEntityMap repoBill = new BillRepositoryEntityMap();
+        CustomerRepositoryEntityMap repoCustomer = new CustomerRepositoryEntityMap();
 
         TransactionService serviceTransaction = new TransactionService(repoTransaction);
         BillService serviceBill = new BillService(repoBill);
